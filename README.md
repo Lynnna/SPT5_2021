@@ -1,4 +1,4 @@
-# The general transcription regulator SPT5 stabilizes RNA polymerase II, orchestrates transcription cycles, and maintains the enhancer landscape
+# The general transcription regulator SPT5 stabilizes RNA polymerase II, governs transcriptional progression, and maintains the enhancer landscape
 
 Primary sequencing data and BigWig files are deposited at the GEO depository: GSE180845.
 
